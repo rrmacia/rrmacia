@@ -14,7 +14,7 @@ Welcome to my portfolio, where I showcase real-world data analysis projects.
 - **Visualization:** Tableau, Power BI
 
 ## 👋🏻 Connect with Me  
-- [LinkedIn](#)  
+- [LinkedIn](https://www.linkedin.com/in/rubenruizmacia/?locale=en_US)  
 
 
 <!--
